@@ -1,0 +1,9 @@
+Dieta
+
+Esse aplicativo tem como objetivo ajudar o usuário a manter a Saúde em dia.
+
+Ao usá-lo pela primeira vez, ele fará seu cadastro e mostrará os dados relativos a sua vida.
+
+Todo dia, em todo consumo de alimentos e bebidas, e em toda prática de exercício ele deverá atualizar o aplicativo dizendo o que ele fez e em que quantidade.
+
+Assim o aplicativo calcula quantas calorias ele já consumiu e quantas faltam para ele atingir a quantidade ideal diária.

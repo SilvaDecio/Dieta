@@ -1,0 +1,60 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Dieta.Paginas.PaginaAdicionar"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="800"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="False" BackKeyPress="PhoneApplicationPage_BackKeyPress">
+
+    <!--LayoutRoot contains the root grid where all other page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <controls:Panorama Title="Adicionar" Foreground="#FF76AADB" Name="PanoramaAdicionar">
+            <controls:Panorama.Background>
+                <ImageBrush ImageSource="/Dieta;component/Images/Panorama.png" />
+            </controls:Panorama.Background>
+            <!--Panorama item one-->
+            <controls:PanoramaItem Header="Exercício">
+                <Grid>
+                    <Button Content="Concluir" Height="72" HorizontalAlignment="Left" Margin="144,426,0,0" Name="BotaoConcluirExercicio" VerticalAlignment="Top" Width="160" BorderBrush="#FF76AADB" Foreground="#FF76AADB" Background="{x:Null}" Click="BotaoConcluirExercicio_Click" />
+                    <TextBox InputScope="Text" Height="100" HorizontalAlignment="Left" Margin="32,28,0,0" Name="BoxdoNomeExercicio" Text="Nome" VerticalAlignment="Top" Width="325" FontSize="28" GotFocus="BoxQualquerExercicio_GotFocus" KeyDown="BoxQualquerExercicio_KeyDown" LostFocus="BoxQualquerExercicio_LostFocus" />
+                    <TextBox InputScope="Digits" Height="103" HorizontalAlignment="Left" Margin="30,154,0,0" Name="BoxdoTempoExercicio" Text="Tempo Padrão (minutos)" VerticalAlignment="Top" Width="340" FontSize="28" GotFocus="BoxQualquerExercicio_GotFocus" KeyDown="BoxQualquerExercicio_KeyDown" LostFocus="BoxQualquerExercicio_LostFocus" />
+                    <TextBox InputScope="Digits" Height="108" HorizontalAlignment="Left" Margin="23,288,0,0" Name="BoxdaCaloriaExercicio" Text="Calorias por Tempo Padrão" VerticalAlignment="Top" Width="370" FontSize="28" GotFocus="BoxQualquerExercicio_GotFocus" KeyDown="BoxQualquerExercicio_KeyDown" LostFocus="BoxQualquerExercicio_LostFocus" />
+                </Grid>
+               
+                
+            </controls:PanoramaItem>
+
+            <!--Panorama item two-->
+            <controls:PanoramaItem Header="Comida">
+                <Grid>
+                    <Button Content="Concluir" Height="72" HorizontalAlignment="Left" Margin="144,426,0,0" Name="BotaoConcluirComida" VerticalAlignment="Top" Width="160" BorderBrush="#FF76AADB" Foreground="#FF76AADB" Background="{x:Null}" Click="BotaoConcluirComida_Click" />
+                    <TextBox InputScope="Text" Height="94" HorizontalAlignment="Left" Margin="26,24,0,0" Name="BoxdoNomeComida" Text="Nome" VerticalAlignment="Top" Width="325" FontSize="28" GotFocus="BoxQualquerComida_GotFocus" KeyDown="BoxQualquerComida_KeyDown" LostFocus="BoxQualquerComida_LostFocus" />
+                    <TextBox InputScope="Digits" Height="105" HorizontalAlignment="Left" Margin="25,146,0,0" Name="BoxdaPorçãoComida" Text="Porção Padrão (gramas)" VerticalAlignment="Top" Width="352" FontSize="28" GotFocus="BoxQualquerComida_GotFocus" KeyDown="BoxQualquerComida_KeyDown" LostFocus="BoxQualquerComida_LostFocus" />
+                    <TextBox InputScope="Digits" Height="105" HorizontalAlignment="Left" Margin="22,272,0,0" Name="BoxdaCaloriaComida" Text="Calorias por Porção Padrão" VerticalAlignment="Top" Width="370" FontSize="28" GotFocus="BoxQualquerComida_GotFocus" KeyDown="BoxQualquerComida_KeyDown" LostFocus="BoxQualquerComida_LostFocus" />
+
+                </Grid>
+            </controls:PanoramaItem>
+
+            <!--Panorama item three-->
+            <controls:PanoramaItem Header="Bebida">
+                <Grid>
+                    <Button Content="Concluir" Height="72" HorizontalAlignment="Left" Margin="144,426,0,0" Name="BotaoConcluirBebida" VerticalAlignment="Top" Width="160" BorderBrush="#FF76AADB" Foreground="#FF76AADB" Background="{x:Null}" Click="BotaoConcluirBebida_Click" />
+                    <TextBox InputScope="Text" Height="85" HorizontalAlignment="Left" Margin="28,16,0,0" Name="BoxdoNomeBebida" Text="Nome" VerticalAlignment="Top" Width="347" FontSize="28" GotFocus="BoxQualquerBebida_GotFocus" KeyDown="BoxQualquerBebida_KeyDown" LostFocus="BoxQualquerBebida_LostFocus" />
+                    <TextBox InputScope="Digits" Height="110" HorizontalAlignment="Left" Margin="31,140,0,0" Name="BoxdaPorçãoBebida" Text="Porção Padrão (mililitros)" VerticalAlignment="Top" Width="354" FontSize="28" GotFocus="BoxQualquerBebida_GotFocus" KeyDown="BoxQualquerBebida_KeyDown" LostFocus="BoxQualquerBebida_LostFocus" />
+                    <TextBox InputScope="Digits" Height="95" HorizontalAlignment="Left" Margin="30,269,0,0" Name="BoxdaCaloriaBebida" Text="Calorias por Porção Padrão" VerticalAlignment="Top" Width="370" FontSize="28" GotFocus="BoxQualquerBebida_GotFocus" KeyDown="BoxQualquerBebida_KeyDown" LostFocus="BoxQualquerBebida_LostFocus" />
+                </Grid>
+            </controls:PanoramaItem>
+        </controls:Panorama>
+    </Grid>
+
+    <!--Panorama-based applications should not show an ApplicationBar-->
+
+</phone:PhoneApplicationPage>

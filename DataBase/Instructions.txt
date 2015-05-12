@@ -1,0 +1,12 @@
+- .sdf System Path
+- .cs System Path (will be generated)
+- Language (C# = csharp)
+- Project Namespace
+- Context class (will be generated)
+
+sqlmetal
+C:\Users\DecioSilva\Desktop\Decio\DietaDataBase.sdf
+/code:"C:\Users\DecioSilva\Desktop\Decio\DietaDataClasses.cs"
+/language:csharp
+/namespace:Dieta
+/context:DietaDataContext/pluralize

@@ -1,0 +1,204 @@
+E:\WP7\Projeto 3ª fase S2B\Dieta\Dieta\Bin\Debug\ApplicationIcon.png
+E:\WP7\Projeto 3ª fase S2B\Dieta\Dieta\Bin\Debug\Background.png
+E:\WP7\Projeto 3ª fase S2B\Dieta\Dieta\Bin\Debug\Dieta.dll
+E:\WP7\Projeto 3ª fase S2B\Dieta\Dieta\Bin\Debug\Dieta.pdb
+E:\WP7\Projeto 3ª fase S2B\Dieta\Dieta\Bin\Debug\AppManifest.xaml
+E:\WP7\Projeto 3ª fase S2B\Dieta\Dieta\Bin\Debug\Dieta.xap
+E:\WP7\Projeto 3ª fase S2B\Dieta\Dieta\obj\Debug\ResolveAssemblyReference.cache
+E:\WP7\Projeto 3ª fase S2B\Dieta\Dieta\obj\Debug\App.g.i.cs
+E:\WP7\Projeto 3ª fase S2B\Dieta\Dieta\obj\Debug\MainPage.g.i.cs
+E:\WP7\Projeto 3ª fase S2B\Dieta\Dieta\obj\Debug\Dieta.g.resources
+E:\WP7\Projeto 3ª fase S2B\Dieta\Dieta\obj\Debug\Dieta.dll
+E:\WP7\Projeto 3ª fase S2B\Dieta\Dieta\obj\Debug\Dieta.pdb
+E:\WP7\Projeto 3ª fase S2B\Dieta\Dieta\obj\Debug\XapCacheFile.xml
+E:\WP7\Projeto 3ª fase S2B\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\WP7\Projeto 3ª fase S2B\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\WP7\Projeto 3ª fase S2B\Dieta\Dieta\obj\Debug\Paginas\PaginaInicial.g.i.cs
+E:\WP7\Projeto 3ª fase S2B\Dieta\Dieta\obj\Debug\Paginas\PaginaAtualizar.g.i.cs
+E:\WP7\Projeto 3ª fase S2B\Dieta\Dieta\obj\Debug\Paginas\PaginaCadastro.g.i.cs
+E:\WP7\Projeto 3ª fase S2B\Dieta\Dieta\obj\Debug\Paginas\PaginaLoading.g.i.cs
+E:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\ApplicationIcon.png
+E:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Background.png
+E:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Dieta.dll
+E:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Dieta.pdb
+E:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\AppManifest.xaml
+E:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Dieta.xap
+E:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\ResolveAssemblyReference.cache
+E:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\App.g.i.cs
+E:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaAtualizar.g.i.cs
+E:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaCadastro.g.i.cs
+E:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaInicial.g.i.cs
+E:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaLoading.g.i.cs
+E:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Dieta.g.resources
+E:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Dieta.dll
+E:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Dieta.pdb
+E:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\XapCacheFile.xml
+F:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\ApplicationIcon.png
+F:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Background.png
+F:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Dieta.dll
+F:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Dieta.pdb
+F:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\AppManifest.xaml
+F:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Dieta.xap
+F:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+F:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.xml
+F:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\ResolveAssemblyReference.cache
+F:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\App.g.i.cs
+F:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaAtualizar.g.i.cs
+F:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaCadastro.g.i.cs
+F:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaInicial.g.i.cs
+F:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaLoading.g.i.cs
+F:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Dieta.g.resources
+F:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Dieta.dll
+F:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Dieta.pdb
+F:\Mobile\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\XapCacheFile.xml
+G:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\ApplicationIcon.png
+G:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Background.png
+G:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Dieta.dll
+G:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Dieta.pdb
+G:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\AppManifest.xaml
+G:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Dieta.xap
+G:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.dll
+G:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+G:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.xml
+G:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\ResolveAssemblyReference.cache
+G:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\App.g.i.cs
+G:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaAdicionar.g.i.cs
+G:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaAtualizar.g.i.cs
+G:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaCadastro.g.i.cs
+G:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaInicial.g.i.cs
+G:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaLoading.g.i.cs
+G:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Dieta.g.resources
+G:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Dieta.dll
+G:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Dieta.pdb
+G:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\XapCacheFile.xml
+E:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\ApplicationIcon.png
+E:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Background.png
+E:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Dieta.dll
+E:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Dieta.pdb
+E:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\AppManifest.xaml
+E:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Dieta.xap
+E:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\ResolveAssemblyReference.cache
+E:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\App.g.i.cs
+E:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaAdicionar.g.i.cs
+E:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaAtualizar.g.i.cs
+E:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaCadastro.g.i.cs
+E:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaInicial.g.i.cs
+E:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaLoading.g.i.cs
+E:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Dieta.g.resources
+E:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Dieta.dll
+E:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Dieta.pdb
+E:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\XapCacheFile.xml
+E:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaEditar.g.i.cs
+G:\WP7\S2B\3ª Fase\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaEditar.g.i.cs
+G:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\ApplicationIcon.png
+G:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\Background.png
+G:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\Dieta.dll
+G:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\Dieta.pdb
+G:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\AppManifest.xaml
+G:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\Dieta.xap
+G:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.dll
+G:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+G:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.xml
+G:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\ResolveAssemblyReference.cache
+G:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\App.g.i.cs
+G:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaAdicionar.g.i.cs
+G:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaAtualizar.g.i.cs
+G:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaCadastro.g.i.cs
+G:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaEditar.g.i.cs
+G:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaInicial.g.i.cs
+G:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaLoading.g.i.cs
+G:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Dieta.g.resources
+G:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Dieta.dll
+G:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Dieta.pdb
+G:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\XapCacheFile.xml
+E:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\ApplicationIcon.png
+E:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\Background.png
+E:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\Dieta.dll
+E:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\Dieta.pdb
+E:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\AppManifest.xaml
+E:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\Dieta.xap
+E:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\ResolveAssemblyReference.cache
+E:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\App.g.i.cs
+E:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaAdicionar.g.i.cs
+E:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaAtualizar.g.i.cs
+E:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaCadastro.g.i.cs
+E:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaEditar.g.i.cs
+E:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaInicial.g.i.cs
+E:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaLoading.g.i.cs
+E:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Dieta.g.resources
+E:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Dieta.dll
+E:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Dieta.pdb
+E:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\XapCacheFile.xml
+F:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\ApplicationIcon.png
+F:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\Background.png
+F:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\Dieta.dll
+F:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\Dieta.pdb
+F:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\AppManifest.xaml
+F:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\Dieta.xap
+F:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+F:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.xml
+F:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\ResolveAssemblyReference.cache
+F:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\App.g.i.cs
+F:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaAdicionar.g.i.cs
+F:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaAtualizar.g.i.cs
+F:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaCadastro.g.i.cs
+F:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaEditar.g.i.cs
+F:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaInicial.g.i.cs
+F:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Paginas\PaginaLoading.g.i.cs
+F:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Dieta.g.resources
+F:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Dieta.dll
+F:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\Dieta.pdb
+F:\WP7\S2B\Fase3\Projeto\Dieta\Dieta\obj\Debug\XapCacheFile.xml
+E:\Ver_Apps\Dieta\Dieta\Dieta\Bin\Debug\ApplicationIcon.png
+E:\Ver_Apps\Dieta\Dieta\Dieta\Bin\Debug\Background.png
+E:\Ver_Apps\Dieta\Dieta\Dieta\Bin\Debug\Dieta.dll
+E:\Ver_Apps\Dieta\Dieta\Dieta\Bin\Debug\Dieta.pdb
+E:\Ver_Apps\Dieta\Dieta\Dieta\Bin\Debug\AppManifest.xaml
+E:\Ver_Apps\Dieta\Dieta\Dieta\Bin\Debug\Dieta.xap
+E:\Ver_Apps\Dieta\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Ver_Apps\Dieta\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\Ver_Apps\Dieta\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\Ver_Apps\Dieta\Dieta\Dieta\obj\Debug\ResolveAssemblyReference.cache
+E:\Ver_Apps\Dieta\Dieta\Dieta\obj\Debug\App.g.i.cs
+E:\Ver_Apps\Dieta\Dieta\Dieta\obj\Debug\Paginas\PaginaAdicionar.g.i.cs
+E:\Ver_Apps\Dieta\Dieta\Dieta\obj\Debug\Paginas\PaginaAtualizar.g.i.cs
+E:\Ver_Apps\Dieta\Dieta\Dieta\obj\Debug\Paginas\PaginaCadastro.g.i.cs
+E:\Ver_Apps\Dieta\Dieta\Dieta\obj\Debug\Paginas\PaginaEditar.g.i.cs
+E:\Ver_Apps\Dieta\Dieta\Dieta\obj\Debug\Paginas\PaginaInicial.g.i.cs
+E:\Ver_Apps\Dieta\Dieta\Dieta\obj\Debug\Paginas\PaginaLoading.g.i.cs
+E:\Ver_Apps\Dieta\Dieta\Dieta\obj\Debug\Dieta.g.resources
+E:\Ver_Apps\Dieta\Dieta\Dieta\obj\Debug\Dieta.dll
+E:\Ver_Apps\Dieta\Dieta\Dieta\obj\Debug\Dieta.pdb
+E:\Ver_Apps\Dieta\Dieta\Dieta\obj\Debug\XapCacheFile.xml
+E:\WP7\S2B\Dieta\Dieta\Dieta\Bin\Debug\ApplicationIcon.png
+E:\WP7\S2B\Dieta\Dieta\Dieta\Bin\Debug\Background.png
+E:\WP7\S2B\Dieta\Dieta\Dieta\Bin\Debug\Dieta.dll
+E:\WP7\S2B\Dieta\Dieta\Dieta\Bin\Debug\Dieta.pdb
+E:\WP7\S2B\Dieta\Dieta\Dieta\Bin\Debug\AppManifest.xaml
+E:\WP7\S2B\Dieta\Dieta\Dieta\Bin\Debug\Dieta.xap
+E:\WP7\S2B\Dieta\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\WP7\S2B\Dieta\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\WP7\S2B\Dieta\Dieta\Dieta\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\WP7\S2B\Dieta\Dieta\Dieta\obj\Debug\ResolveAssemblyReference.cache
+E:\WP7\S2B\Dieta\Dieta\Dieta\obj\Debug\App.g.i.cs
+E:\WP7\S2B\Dieta\Dieta\Dieta\obj\Debug\Paginas\PaginaAdicionar.g.i.cs
+E:\WP7\S2B\Dieta\Dieta\Dieta\obj\Debug\Paginas\PaginaAtualizar.g.i.cs
+E:\WP7\S2B\Dieta\Dieta\Dieta\obj\Debug\Paginas\PaginaCadastro.g.i.cs
+E:\WP7\S2B\Dieta\Dieta\Dieta\obj\Debug\Paginas\PaginaEditar.g.i.cs
+E:\WP7\S2B\Dieta\Dieta\Dieta\obj\Debug\Paginas\PaginaInicial.g.i.cs
+E:\WP7\S2B\Dieta\Dieta\Dieta\obj\Debug\Paginas\PaginaLoading.g.i.cs
+E:\WP7\S2B\Dieta\Dieta\Dieta\obj\Debug\Dieta.g.resources
+E:\WP7\S2B\Dieta\Dieta\Dieta\obj\Debug\Dieta.dll
+E:\WP7\S2B\Dieta\Dieta\Dieta\obj\Debug\Dieta.pdb
+E:\WP7\S2B\Dieta\Dieta\Dieta\obj\Debug\XapCacheFile.xml
